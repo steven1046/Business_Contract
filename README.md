@@ -1,14 +1,14 @@
 Business Contract
 ================
 
-Database for Business Contracts using SQL queries and Apex 5.0 (EA)
+Database for Business Contracts created using SQL queries and Apex 5.0 (EA)
 
 Team:
 Charlina Hung
 Hans Urquia
 Steven Zvonek
 
-Application Site:
+Application Website:
 https://apexea.oracle.com/pls/apex/f?p=12162:1:8055518735499
 
 Logical Model:
