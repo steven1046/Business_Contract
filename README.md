@@ -1,7 +1,7 @@
 Business Contract
 ================
 
-Database for Business Contracts using SQL and Apex 5.0 (EA)
+Database for Business Contracts using SQL queries and Apex 5.0 (EA)
 
 Team:
 Charlina Hung
