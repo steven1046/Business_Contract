@@ -21,9 +21,10 @@ UTCS, Professor Phillip Cannata
 ================
 
 Features:
-Calendar (Tickler)
-Upcoming Events
-Summary
-Modal Windows
+Calendar,
+Tickler on Notes,
+Upcoming Events,
+Contract Summaries,
+Modal Windows,
 Selection from List of Values
 
